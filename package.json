@@ -1,0 +1,24 @@
+{
+  "name": "koa-uba-hot-middleware",
+  "version": "1.0.0",
+  "description": "koa2 hot-middleware for uba-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinper-uba/koa-uba-hot-middleware.git"
+  },
+  "keywords": [
+    "uba",
+    "koajs",
+    "yonyou"
+  ],
+  "author": "yueming@yonyou.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tinper-uba/koa-uba-hot-middleware/issues"
+  },
+  "homepage": "https://github.com/tinper-uba/koa-uba-hot-middleware#readme"
+}
